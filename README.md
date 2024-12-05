@@ -5,6 +5,9 @@ Gonçal Garcés Díaz-Munío. Advisers: Alfons Juan Ciscar and Jorge Civera Saiz
 
 This PhD thesis is published with open access at [https://doi.org/10.4995/Thesis/10251/212454](https://doi.org/10.4995/Thesis/10251/212454).
 
+This repository contains:
+- The slides used for the [PhD thesis defence](https://www.mllp.upv.es/goncal-garces-diaz-munio-earns-his-phd-in-computer-science-at-universitat-politecnica-de-valencia/) on 2024-10-15: [thesis_slides_en_20241015.pdf](https://github.com/gonsalet/ASR_and_MT_for_educational_parliamentary_and_broadcast_media/blob/main/thesis_slides_en_20241015.pdf)
+
 CITATION
 --------
 [https://doi.org/10.4995/Thesis/10251/212454](https://doi.org/10.4995/Thesis/10251/212454)
